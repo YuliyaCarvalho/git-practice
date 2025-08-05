@@ -4,3 +4,5 @@ Favorite Color: Green
 Kids: Daughter
 Kid name: Zoya
 Kid age: 3
+dog: yes
+dog's name: Oliver
